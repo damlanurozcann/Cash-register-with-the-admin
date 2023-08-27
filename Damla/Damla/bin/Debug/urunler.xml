@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urunler>
+  <urun>
+    <urunadı> poncella      </urunadı>
+    <adet>100</adet>
+    <fiyat>80</fiyat>
+  </urun>
+  <urun>
+    <urunadı>  umberto</urunadı>
+    <adet>120</adet>
+    <fiyat></fiyat>
+  </urun>
+  <urun>
+    <urunadı>cordinale   </urunadı>
+    <adet>140</adet>
+    <fiyat>100</fiyat>
+  </urun>
+  <urun>
+    <urunadı>  polermo</urunadı>
+    <adet>160</adet>
+    <fiyat>85</fiyat>
+  </urun>
+</urunler>

@@ -1,0 +1,15 @@
+C:\Users\damla\source\repos\Damla\Damla\obj\Debug\Damla.csproj.AssemblyReference.cache
+C:\Users\damla\source\repos\Damla\Damla\obj\Debug\Damla.Form1.resources
+C:\Users\damla\source\repos\Damla\Damla\obj\Debug\Damla.Form2.resources
+C:\Users\damla\source\repos\Damla\Damla\obj\Debug\Damla.Form3.resources
+C:\Users\damla\source\repos\Damla\Damla\obj\Debug\Damla.Form4.resources
+C:\Users\damla\source\repos\Damla\Damla\obj\Debug\Damla.Form5.resources
+C:\Users\damla\source\repos\Damla\Damla\obj\Debug\Damla.Form6.resources
+C:\Users\damla\source\repos\Damla\Damla\obj\Debug\Damla.Properties.Resources.resources
+C:\Users\damla\source\repos\Damla\Damla\obj\Debug\Damla.csproj.GenerateResource.cache
+C:\Users\damla\source\repos\Damla\Damla\obj\Debug\Damla.csproj.CoreCompileInputs.cache
+C:\Users\damla\source\repos\Damla\Damla\bin\Debug\Damla.exe.config
+C:\Users\damla\source\repos\Damla\Damla\bin\Debug\Damla.exe
+C:\Users\damla\source\repos\Damla\Damla\bin\Debug\Damla.pdb
+C:\Users\damla\source\repos\Damla\Damla\obj\Debug\Damla.exe
+C:\Users\damla\source\repos\Damla\Damla\obj\Debug\Damla.pdb
